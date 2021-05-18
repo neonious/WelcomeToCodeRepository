@@ -2,16 +2,26 @@
 
 ## Welcome to the Neonious code repository!
 
-The smart contract of the Neonious Token and the Neonious molecular dynamics mining software are both currently being polished and tested on a private Ethereum network. You can see the test setup in action at
+
+### (1) Neonious core projects
+
+#### Neonious-Token-v1 (https://github.com/neonious/Neonious-Token-v1)
+
+The ERC20 smart contract which implements the Neonious Token.
+
+
+#### Neonious molecular dynamics mining software
+
+The Neonious molecular dynamics mining software is currently being polished and tested together with the Neonious Token on a private Ethereum network. You can see the test setup in action at
 
 https://www.neonious.org/MDQueue
 
-The code to both will be published when they are fully featured and extensivly tested and thus ready for the public.
+The code will be published when they are fully featured and extensivly tested and thus ready for the public.
 
-However, other projects exist which were written by the Neonious team, with the exception of some additions by contributors. They provide a good starting point to evaluate the technical competence of the Neonious team:
+However, next to the smart contract above, other projects exist which were written by the Neonious team, with the exception of some additions by contributors. They provide a good starting point to evaluate the technical competence of the Neonious team:
 
 
-### (1) Supporting projects
+### (2) Supporting projects
 
 #### ETH+ERC20+EIP3009+TransferTools (https://github.com/neonious/ETH-ERC20-EIP3009-TransferTools)
 
@@ -23,7 +33,7 @@ Node.JS API for transfer of ETH + ERC20, delegated (gasless) transfer via EIP-30
 Fully tested Node.JS library which implements a Ethereum wallet which supports multiple addresses, ETH and ERC20 tokens and which takes all required gas from one central Ethereum account.
 
 
-### (2) low.js (with over 1,000 stargazers on GitHub!)
+### (3) low.js (with over 1,000 stargazers on GitHub!)
 
 Before pivoting to becoming a biotechnology company, Neonious developed low.js: a free to use and open sourced port of the JavaScript runtime Node.js with far lower system requirements, allowing it to run on cheap, power-efficient microcontroller boards based on the ESP32-WROVER module. It also runs on Linux based systems as a smaller, faster booting alternative to Node.JS.
 
