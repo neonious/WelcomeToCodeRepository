@@ -10,22 +10,14 @@
 The ERC20 smart contract which implements the Neonious Token.
 
 
-#### Neonious molecular dynamics mining software
+#### Neonious Node (https://github.com/neonious/Neonious-Node)
 
-The Neonious molecular dynamics mining software is currently being polished and tested together with the Neonious Token on a private Ethereum network. You can see the test setup in action at
+The Neonious simulation software featuring GROMACS and AutoGrid 4 (GPU version).
 
-https://www.neonious.org/MDQueue
-
-The code will be published when they are fully featured and extensivly tested and thus ready for the public.
-
-However, next to the smart contract above, other projects exist which were written by the Neonious team, with the exception of some additions by contributors. They provide a good starting point to evaluate the technical competence of the Neonious team:
+More information: https://www.neonious.org/RunNode
 
 
 ### (2) Supporting projects
-
-#### ETH+ERC20+EIP3009+TransferTools (https://github.com/neonious/ETH-ERC20-EIP3009-TransferTools)
-
-Node.JS API for transfer of ETH + ERC20, delegated (gasless) transfer via EIP-3009 as supported by USDC, and misc functions. Also includes full unit test for transfer functions.
 
 
 #### CentralNodeWallet (https://github.com/neonious/CentralNodeWallet)
