@@ -27,7 +27,7 @@ Fully tested Node.JS library which implements a Ethereum wallet which supports m
 
 ### (3) low.js (with over 1,000 stargazers on GitHub!)
 
-Before pivoting to becoming a biotechnology company, Neonious developed low.js: a free to use and open sourced port of the JavaScript runtime Node.js with far lower system requirements, allowing it to run on cheap, power-efficient microcontroller boards based on the ESP32-WROVER module. It also runs on Linux based systems as a smaller, faster booting alternative to Node.JS.
+Before pivoting to becoming a crypto company, Neonious developed low.js: a free to use and open sourced port of the JavaScript runtime Node.js with far lower system requirements, allowing it to run on cheap, power-efficient microcontroller boards based on the ESP32-WROVER module. It also runs on Linux based systems as a smaller, faster booting alternative to Node.JS.
 
 Node.JS is the runtime which is used to build server and standalone applications with JavaScript and is extensivly used in the industry.
 
